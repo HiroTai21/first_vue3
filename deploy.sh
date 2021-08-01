@@ -12,3 +12,6 @@ git add -A
 git commit -m 'deploy'
 git push -f https://github.com/HiroTai21/first_vue3.git master:gh-pages
 cd -
+git add -A
+git commit -m'update source'
+git push -f https://github.com/HiroTai21/first_vue3.git master:master
